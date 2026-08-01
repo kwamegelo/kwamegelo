@@ -49,13 +49,8 @@ On the hardware side, I design multi-sensor ESP32 systems for real-world monitor
 
 ## Featured Projects
 
-- **EduViz / e-LAB** — A 3D, browser-based engineering lab simulation for interactive learning. `Three.js` `Express.js` — 🏆 3rd Place, Tech World Hackathon
 
 - **Smart Farm Monitoring System** — An ESP32-based system tracking soil moisture, water level, flame, light, and temperature/humidity, with a WiFi-hosted web dashboard. `ESP32` `C++` `IoT Sensors`
-
-- **Nsupa** — A water-quality monitoring dashboard measuring TDS, turbidity, conductivity, and pH, built for the Global Challenge Lab 2026 to address galamsey-contaminated rivers in Ghana. `ESP32` `C++` `Web Dashboard`
-
-- **K-Map Solver** — A clean, lightweight HTML tool for solving Karnaugh maps quickly. `HTML` `JavaScript`
 
 ## GitHub Stats
 
